@@ -6,6 +6,7 @@ div {
     background-image: url("../../000_img/pup.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    font-family: Bahnschrift;
 }
 
 img {
@@ -23,4 +24,8 @@ img {
 
 .dogthree {
     border: 10px double orangered;
+}
+
+.aha {
+    font-family: Bahnschrift;
 }
